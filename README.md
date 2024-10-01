@@ -39,6 +39,7 @@ selanjutnya kita menambahkan jtable untuk menampilkan data kita
 berikut untuk kodingan dalam button insert untuk menambahkan data kita dalam table dengan memanggil method insertDb
 
 ![isi dalam button insert](https://github.com/user-attachments/assets/30dd41e3-a324-4d07-a2af-f049df2d67c1)
+
 dan berikut isi kodingan dalam method insertDb
 
 ![kodingan insert](https://github.com/user-attachments/assets/10687441-da7e-4d66-9697-36c86aa7a43f)
@@ -47,25 +48,32 @@ dan berikut isi kodingan dalam method insertDb
 berikut untuk kodingan dalam button update untuk mengubah data kita dalam table dengan memanggil method updateDb
 
 ![isi dalam button update](https://github.com/user-attachments/assets/09a346e4-2103-4f19-a0e7-90296b559ec4)
+
 dan berikut isi kodingan dalam method updateDb
+
 ![kodingan update](https://github.com/user-attachments/assets/c50f29b4-070c-4924-889d-90c08fa62880)
 
 ## Kodingan Delete
 berikut untuk kodingan dalam button delete untuk menghapus data kita dalam table dengan memanggil method deleteDb
 
 ![isi dalam button delete](https://github.com/user-attachments/assets/6f0875af-c1f7-4e3e-896f-dc64c4a5c376)
+
 dan berikut isi kodingan dalam method deleteDb
+
 ![kodingan update](https://github.com/user-attachments/assets/c50f29b4-070c-4924-889d-90c08fa62880)
 
 ## Menampilkan Data
 selanjutnya kita membuat method show table untuk menampilkan data di dalam table dan dengan bantuan memanggil method selectDb
 
 ![isi show table](https://github.com/user-attachments/assets/258de1af-16bb-4a8f-9c1d-a6f6b3cb62a0)
+
 dan berikut isi kodingan dalam method selectDb
+
 ![kodingan select](https://github.com/user-attachments/assets/5823eaa9-cd03-4bb5-aa35-bf6e34b2553c)
 
 ## Hasil Tampilan
 dan berikut hasil dari tampilannya
+
 ![Sebelum Insert](https://github.com/user-attachments/assets/4359a7cb-b857-41bb-9209-3844c655cd42)
 
 ## Praktek
