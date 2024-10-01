@@ -80,6 +80,7 @@ dan berikut hasil dari tampilannya
 
 ## Tampilan Insert
 kita akan mencoba memasukkan data dalam tabel
+
 **sebelum**
 ![Sebelum Insert](https://github.com/user-attachments/assets/4359a7cb-b857-41bb-9209-3844c655cd42)
 **sesudah**
@@ -87,6 +88,7 @@ kita akan mencoba memasukkan data dalam tabel
 
 ## Tampilan Update
 Kita akan mencoba mengubah data dalam table dari laskar pelangi menjadi jendral soedirman
+
 **sebelum**
 ![sesudah insert](https://github.com/user-attachments/assets/a30a35db-9461-486b-b571-02b2291bb19f)
 **sesudah**
@@ -94,6 +96,7 @@ Kita akan mencoba mengubah data dalam table dari laskar pelangi menjadi jendral 
 
 ## Tampilan Delete
 kita akan mencoba menghapus data yang ada dalam table
+
 **sebelum**
 ![sesudah update dan sebelum delete](https://github.com/user-attachments/assets/c83c479f-82cb-45da-a39c-b945f3942351)
 **sesudah**
